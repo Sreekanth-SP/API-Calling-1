@@ -9,3 +9,4 @@
 **STEP-1 : Set up the Project**
 1. Create a new Java projectin your IDE.
 1. Set up the project structure and create the necessary directories.
+2. Add the required dependencies to your project.
